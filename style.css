@@ -1,0 +1,38 @@
+header h1{
+    position: absolute;
+    bottom: 360px;
+    left: 96px;
+    background-color: rgb(24, 198, 211);
+    border-radius: 15px;
+    padding: 5px;
+}
+
+li {
+    font-size: 20px;
+    padding: 8px;
+}
+.algo {
+    border: 3px dotted blue;
+}
+
+p {
+    font-size: 19px;
+}
+
+.alo {
+    margin-left: 80px;
+}
+
+span {
+    color: black;
+    background-color: lightblue;
+}
+
+img {
+    border: 3px dotted blue;
+}
+
+.N {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
